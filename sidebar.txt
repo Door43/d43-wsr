@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wsr:home|Door43 (wsr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wsr|d43-wsr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wsr/archive/master.zip|d43-wsr.zip]]
+
+**Recent Changes**
+{{changes>ns = wsr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wsr|Ethnologue data]]
+
